@@ -1,3 +1,6 @@
 projectdsmp-capstone-project filter=lfs diff=lfs merge=lfs -text
 C:UsersKIITDesktopThesis filter=lfs diff=lfs merge=lfs -text
 projectdsmp-capstone-projectpipeline.pkl filter=lfs diff=lfs merge=lfs -text
+*.pk filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+pipeline.pkl filter=lfs diff=lfs merge=lfs -text
